@@ -1,4 +1,4 @@
-# Curso Tour Of Heroes Frontend
+# Tour Of Heroes - Angular
 
 This course was inspired by the Tour of Heroes tutorial on Angular's official website.
 
@@ -19,8 +19,8 @@ This repository is part of the [Curso Angular v13 - Tour of Heroes](https://yout
 ## Usage
 
 ```bash
-git clone https://github.com/peimelo/curso-tour-of-heroes-frontend.git
-cd curso-tour-of-heroes-frontend
+git clone https://github.com/eltonsantos/tour-of-heroes-angular.git
+cd tour-of-heroes-angular
 npm install
 ng serve
 ```
