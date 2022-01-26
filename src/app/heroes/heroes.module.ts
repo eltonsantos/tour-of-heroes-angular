@@ -9,6 +9,12 @@ import { HeroesRoutingModule } from './heroes-routing.module';
 
 @NgModule({
   declarations: [HeroesComponent, HeroDetailComponent],
-  imports: [CommonModule, FlexLayoutModule, FormsModule, MaterialModule, HeroesRoutingModule],
+  imports: [
+    CommonModule,
+    FlexLayoutModule,
+    FormsModule,
+    MaterialModule,
+    HeroesRoutingModule,
+  ],
 })
 export class HeroesModule {}
